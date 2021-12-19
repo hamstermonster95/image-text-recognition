@@ -1,6 +1,6 @@
 # image-text-recognition
 
-This app transforms text from images into text. You upload image and the app displays text from it.
+This app transforms text from images into text. You upload image and the app displays text from it. It uses tesseract for the transformation. 
 
 ## Running Locally
 
