@@ -9,6 +9,10 @@ git clone https://github.com/hamstermonster95/image-text-recognition.git
 ```
 
 ```bash
+cd image-text-recognition
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
